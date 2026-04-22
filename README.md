@@ -1,6 +1,6 @@
 Nhóm GitHub Project
 
-## 📌 Giới thiệu
+## Giới thiệu
 Đây là dự án bài tập nhóm môn Git & GitHub, mô phỏng quy trình làm việc nhóm sử dụng branch, pull request và merge.
 
 ---
