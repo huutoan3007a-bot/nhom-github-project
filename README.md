@@ -5,14 +5,14 @@ Nhóm GitHub Project
 
 ---
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm
 
-- 👤 Toàn: `toan.md`
-- 👤 Minh: `minh.md`
+- Toàn: `toan.md`
+   Minh: `minh.md`
 
 ---
 
-## 🧠 Mục tiêu bài tập
+## Mục tiêu bài tập
 
 - Hiểu cách sử dụng Git và GitHub trong làm việc nhóm
 - Biết cách tạo branch riêng cho từng thành viên
